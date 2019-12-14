@@ -1,10 +1,8 @@
 # Lucid UI Code Assessment
 
-Welcome to the code assessment for Lucid's UI Team.
+Thank you for spending the time to create the code assessment for Lucid's UI Team.
 
-This README details what we expect from you on this assessment. If you have any questions, feel free to reach out anytime.
-
-Please, use this repository to fork the project into your account and submit the link to us (by email) with the final solution when done.
+This README details what was expect from me on this assessment. Below is more information on my tasks and what was expected of me.
 
 ## Application
 
